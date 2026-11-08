@@ -7,6 +7,7 @@ I work on getting machines to understand how people move, and how they interact:
 | | |
 |---|---|
 | [engage3d](https://github.com/dhruvinci/engage3d) | Two-person engagement in 3D from one camera: pre-registered experiments, a [public model](https://huggingface.co/0xdhruva/engage3d-placement-v1) |
+| [vlm-spatial-probe](https://github.com/dhruvinci/vlm-spatial-probe) | Blindsight: do vision-language models hold the measurements their answers leave out? Five open VLMs, probed layer by layer |
 | [moveharness](https://github.com/dhruvinci/moveharness) | The harness and scorer from my CAISc 2026 paper on faithful human-movement understanding |
 | [movement-research](https://github.com/dhruvinci/movement-research) | Measuring movement under contact from one camera, retractions kept |
 | [kakashi-autolabel](https://github.com/dhruvinci/kakashi-autolabel) | Auto-labelling combat video with a VLM agent and SAM 3.1, checked by hand |
